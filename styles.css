@@ -28,3 +28,8 @@ button:hover{
     justify-content: center;
     
 }
+
+.headshot {
+    width: 200px;
+    height: auto;
+}
